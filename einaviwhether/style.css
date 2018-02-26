@@ -1,0 +1,153 @@
+
+div {
+    box-sizing: border-box;
+    
+}
+
+.weather-box {
+   
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+}
+.weather-box div img{
+    width:100%;
+}
+#latitude {
+    color:#1397ea;
+}
+
+#longitude {
+     color:#1397ea;
+}
+
+#Location {
+     color:#1397ea;
+}
+
+#Icon {
+     color:#1397ea;
+}
+
+#Temp {
+     color:#1397ea;
+}
+
+#Summary {
+     color:#1397ea;
+}
+
+#Icon_0 {
+    color:#1397ea;
+}
+
+#Min_0 {
+    color:#1397ea;
+}
+
+#Max_0 {
+    color:#1397ea;
+}
+
+#Icon_1 {
+    color:#1397ea;
+}
+
+#Min_1 {
+    color:#1397ea;
+}
+
+#Max_1 {
+    color:#1397ea;
+}
+
+#Icon_2 {
+    color:#1397ea;
+}
+
+#Min_2 {
+    color:#1397ea;
+}
+
+#Max_2 {
+    color:#1397ea;
+}
+
+#Icon_3 {
+    color:#1397ea;
+}
+
+#Min_3 {
+    color:#1397ea;
+}
+
+#Max_3 {
+    color:#1397ea;
+}
+
+#Icon_4 {
+    color:#1397ea;
+}
+
+#Min_4 {
+    color:#1397ea;
+}
+
+#Max_4 {
+    color:#1397ea;
+}
+
+#Icon_5 {
+    color:#1397ea;
+}
+
+#Min_5 {
+    color:#1397ea;
+}
+
+#Max_5 {
+    color:#1397ea;
+}
+
+#Icon_6 {
+    color:#1397ea;
+}
+
+#Min_6 {
+    color:#1397ea;
+}
+
+#Max_6 {
+    color:#1397ea;
+}
+
+#Icon_7 {
+    color:#1397ea;
+}
+
+#Min_7 {
+    color:#1397ea;
+}
+
+#Max_7 {
+    color:#1397ea;
+}
+
+#latituded {
+      color:#1397ea;
+    font-size: 40px;
+    
+}
+
+#top {
+    display: flex;
+    flex-direction: column;
+}
+
+#left {
+    justify-content: flex-end;
+}
+
+#right {
+      justify-content: flex-end;
+}
